@@ -1,5 +1,5 @@
 
-public class CustomExceptionThrower {
+public class Lab {
 
     /**
      * This method should throw a CustomException. CustomException is a custom exception that we've written ourselves

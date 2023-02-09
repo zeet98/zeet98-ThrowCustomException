@@ -4,10 +4,10 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class CustomExceptionTest {
-    static CustomExceptionThrower cet;
+    static Lab cet;
     @BeforeClass
     public static void setUp(){
-        cet = new CustomExceptionThrower();
+        cet = new Lab();
     }
 
     /**
